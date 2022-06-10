@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Nunito';
+  font-style: bold;
+  font-weight: 700;
+  src: local('Nunito'), local('Nunito'), url(/assets/fonts/nunitobold700.ttf) format('ttf');
+  font-display: swap;
+}
+@font-face {
+  font-style: bold;
+  font-family: 'Roboto';
+  font-weight: 700;
+  src: local('Roboto'), local('Roboto'),
+    url(/assets/fonts/robotorobotoromanbold700.ttf) format('ttf');
+  font-display: swap;
+}
+@font-face {
+  font-style: normal;
+  font-family: 'Nunito';
+  font-weight: 400;
+  src: local('Nunito'), local('Nunito'), url(/assets/fonts/nunitoregular400.ttf) format('ttf');
+  font-display: swap;
+}
+@font-face {
+  font-style: bold;
+  font-family: 'Nunito';
+  font-weight: 600;
+  src: local('Nunito'), local('Nunito'), url(/assets/fonts/nunitosemibold600.ttf) format('ttf');
+  font-display: swap;
+}
+@font-face {
+  font-style: bold;
+  font-family: 'Nunito';
+  font-weight: 500;
+  src: local('Nunito'), local('Nunito'), url(/assets/fonts/nunitomedium500.ttf) format('ttf');
+  font-display: swap;
+}
