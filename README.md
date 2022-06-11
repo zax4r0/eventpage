@@ -35,7 +35,7 @@
 ## Quick Start
 
 ```bash
-git clone https:github.com/zax4r0/eventpage.git
+git clone https://github.com/zax4r0/eventpage.git
 ```
 
 ### Development

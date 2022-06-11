@@ -19,9 +19,9 @@ const Organiser = ({ children }: { children: ReactNode }) => {
             />
             <div className="flex flex-col items-start 3xl:my-[10px] lg:my-[6px] my-[7.5px] xl:my-[7px] 2xl:my-[8px] w-[74%]">
               <div className="flex flex-col w-full">
-                <h1 className="font-bold mx-[auto]  lg:text-fs17 text-fs13 2xl:text-fs22 3xl:text-fs27 text-white_A700">{`Event Organiser name`}</h1>
+                <h1 className="font-bold mx-[auto] text-center lg:text-fs17 text-fs20 2xl:text-fs22 3xl:text-fs27 text-white_A700">{`Event Organiser name`}</h1>
               </div>
-              <h1 className="font-semibold mr-[10px] 2xl:mr-[11px] 3xl:mr-[13px] lg:mr-[8px] text-bluegray_100 text-center lg:text-fs14 text-fs12 2xl:text-fs18 3xl:text-fs21">{`12 events`}</h1>
+              <h1 className="font-semibold mr-[10px] 2xl:mr-[11px] 3xl:mr-[13px] lg:mr-[8px] text-bluegray_100 text-center lg:text-fs14 text-fs16 2xl:text-fs18 3xl:text-fs21">{`12 events`}</h1>
             </div>
           </div>
           <Image

@@ -1,6 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-import Image from 'next/image';
-import I1 from '@/public/assets/images/img_rectangle14.webp';
 
 function Map() {
   return (
@@ -11,8 +9,8 @@ function Map() {
         py-[10px] 2xl:py-[11px] 3xl:py-[13px] lg:py-[8px] rounded-radius16 w-full"
         >
           <div className="relative flex-wrap lg:h-[165px] h-[188px] xl:h-[189px] 2xl:h-[212px] 3xl:h-[254px] mx-[auto] w-[96%]">
-            <Image
-              src={I1}
+            <img
+              src="/assets/images/img_rectangle14.webp"
               className="absolute lg:h-[165px] h-[188px] xl:h-[189px] 2xl:h-[212px] 3xl:h-[254px] inset-[0] object-cover rounded-radius10 w-full"
               alt="Rectangle14"
               loading="lazy"
